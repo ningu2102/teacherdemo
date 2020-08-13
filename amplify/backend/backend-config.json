@@ -1,12 +1,5 @@
 {
-	"auth": {
-		"teacherdemo6823c61c": {
-			"service": "Cognito",
-			"providerPlugin": "awscloudformation",
-			"dependsOn": [],
-			"customAuth": false
-		}
-	},
+	"auth": {},
 	"api": {
 		"courseapp": {
 			"service": "AppSync",

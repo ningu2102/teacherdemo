@@ -10,11 +10,6 @@
             "StackName": "amplify-teacherdemo-dev-02232",
             "StackId": "arn:aws:cloudformation:us-east-2:516626310075:stack/amplify-teacherdemo-dev-02232/27187a90-dd96-11ea-b304-0af17cbfa87c",
             "AmplifyAppId": "dd11cfeqq69pu"
-        },
-        "categories": {
-            "auth": {
-                "teacherdemo6823c61c": {}
-            }
         }
     }
 }
